@@ -1,0 +1,8 @@
+.Tshirt{
+    height:400px;
+    border:1px solid lavenderblush;
+    border: radius 10px;
+}
+.Tshirt img{
+    height:200px;
+}
